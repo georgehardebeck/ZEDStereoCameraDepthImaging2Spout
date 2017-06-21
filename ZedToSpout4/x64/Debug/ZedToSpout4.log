@@ -1,0 +1,12 @@
+﻿Build started 6/21/2017 4:16:34 PM.
+     1>Project "E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\ZedToSpout4\ZedToSpout4.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\x64\Debug\ZedToSpout4.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\opencv2_lib /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\Glew_lib /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\GL_lib /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\cuda_lib /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\zed_lib /LIBPATH:E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\\dependencies\Spout_lib cuda.lib freeglut.lib glew32.lib opencv_world320.lib Spout.lib sl_zed64.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\x64\Debug\ZedToSpout4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\x64\Debug\ZedToSpout4.lib" /MACHINE:X64 x64\Debug\Opencv2OpenGL.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\ZedToSpout4.obj
+         ZedToSpout4.vcxproj -> E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\x64\Debug\ZedToSpout4.exe
+     1>Done Building Project "E:\googleDrive\work\immersEnvironSpr2016\ZedToSpout4\ZedToSpout4\ZedToSpout4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.38

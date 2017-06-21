@@ -1,0 +1,11 @@
+GLEW Install
+http://glew.sourceforge.net/install.html
+
+GLEW preprocessor directive
+http://stackoverflow.com/questions/6481633/including-glew-using-only-source-files
+
+GLEW static library
+http://stackoverflow.com/questions/31090963/visual-studio-2013-c-link-static-library-glew-glfw-on-virtual-machine
+
+
+in SpoutGLextensions.h, commented out the extern lines throwing warnings
